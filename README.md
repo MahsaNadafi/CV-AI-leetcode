@@ -9,8 +9,6 @@ Rather than solving generic LeetCode problems, this repo focuses on:
 - Practical PyTorch implementations
 - ML systems topics such as numerical stability and performance
 
----
-
 ## Repository Structure
 
 | Folder | Description |
@@ -23,15 +21,11 @@ Rather than solving generic LeetCode problems, this repo focuses on:
 | `06_systems_and_debugging` | Precision, performance, stability |
 | `notes` | Interview patterns and reflections |
 
----
-
 ## Goal
 
 - Build strong foundations for CV / AI engineering roles
 - Improve implementation and debugging skills
 - Maintain a public, well-documented learning log
-
----
 
 ## Tech Stack
 - Python
